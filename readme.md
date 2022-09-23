@@ -1,7 +1,7 @@
 ## Portfolio using Django
 Leveraged Django and Postgres to build my portfolio.
 
-### Learning Objctives
+### Learning Objectives
 
 - Setting up URLs in Django project
 - Creating models in Django
